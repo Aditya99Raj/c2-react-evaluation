@@ -1,0 +1,61 @@
+{
+  "houses": [
+    {
+      "name": "Aditya Raj",
+      "ownerName": "sum",
+      "Address": "school",
+      "areaCode": "ee",
+      "rent": "777",
+      "preferredtenants": "on",
+      "married": "on",
+      "image": "gs",
+      "id": 3
+    },
+    {
+      "name": "Aditya Raj",
+      "ownerName": "sum",
+      "Address": "school",
+      "areaCode": "ee",
+      "rent": "777",
+      "preferredTenants": "",
+      "married": "on",
+      "image": "gs",
+      "preferredtenanTs": "on",
+      "id": 4
+    },
+    {
+      "name": "Aditya Raj",
+      "ownerName": "sum",
+      "address": "school",
+      "areaCode": "ee",
+      "rent": "777",
+      "preferredTenants": "",
+      "married": "on",
+      "image": "gs",
+      "preferredtenanTs": "on",
+      "id": 5
+    },
+    {
+      "name": "Aditya Raj",
+      "ownerName": "sum",
+      "address": "school",
+      "areaCode": "ee",
+      "rent": "777",
+      "preferredTenants": "on",
+      "married": "on",
+      "image": "gs",
+      "id": 6
+    },
+    {
+      "name": "Aditya Raj",
+      "ownerName": "sum",
+      "address": "school",
+      "areaCode": "ee",
+      "rent": "44",
+      "preferredTenants": "on",
+      "married": "on",
+      "image": "r",
+      "id": 7
+    }
+  ]
+}
